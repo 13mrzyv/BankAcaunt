@@ -14,6 +14,7 @@ namespace BankAcaunt
             UI u1 = new UI();
             u1.Begin();
             Console.WriteLine();
+            Console.WriteLine();
         }
     }
 }
